@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>PayloadContent</key>
+  <array>
+    <dict>
+      <key>FullScreen</key>
+      <false/>
+      <key>IconURL</key>
+      <string>https://saadamjad8077.github.io/menasco-profile/Menasco_WebClip_Icon_180.png</string>
+      <key>IsRemovable</key>
+      <true/>
+      <key>Label</key>
+      <string>Menasco</string>
+      <key>PayloadDescription</key>
+      <string>Menasco website shortcut</string>
+      <key>PayloadDisplayName</key>
+      <string>Menasco</string>
+      <key>PayloadIdentifier</key>
+      <string>com.menasco.webclip</string>
+      <key>PayloadType</key>
+      <string>com.apple.webClip.managed</string>
+      <key>PayloadUUID</key>
+      <string>3B595BBA-AD26-40EC-9A9D-EDD1034BC3D9</string>
+      <key>PayloadVersion</key>
+      <integer>1</integer>
+      <key>Precomposed</key>
+      <true/>
+      <key>URL</key>
+      <string>https://sites.google.com/menascouae.com/snag/home</string>
+    </dict>
+  </array>
+  <key>PayloadDisplayName</key>
+  <string>Menasco</string>
+  <key>PayloadIdentifier</key>
+  <string>com.menasco.profile</string>
+  <key>PayloadRemovalDisallowed</key>
+  <false/>
+  <key>PayloadType</key>
+  <string>Configuration</string>
+  <key>PayloadUUID</key>
+  <string>E8DF3C40-51F3-45FE-A21C-0E225C2A636E</string>
+  <key>PayloadVersion</key>
+  <integer>1</integer>
+</dict>
+</plist>
